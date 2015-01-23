@@ -13,6 +13,8 @@ public class Prova {
 	 */
 	public static void main(String[] args) {
 		System.out.print("joan ets un guapo");
+		System.out.print("jtu mes");
+ 
 	}
 
 }
