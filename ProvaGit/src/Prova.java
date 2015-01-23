@@ -12,7 +12,7 @@ public class Prova {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.print("");
+		System.out.print("joan ets un guapo");
 	}
 
 }
